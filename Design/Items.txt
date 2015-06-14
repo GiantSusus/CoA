@@ -1,0 +1,42 @@
+Weapons:
+Naegling - Sword
++5 kill
++5 def
+
+Teemos Pipe - Blowpipe
++2 def
++3 kill
+
+Mr 47's Wire - Strangling Wire
++5 kill
+
+AWP - sniper rifle
++10 kill
+
+The Immovable Object - Shield
++10 def
+
+Poking Stick - Stick
+beginning item
+
+Armour:
+Good Judgement - Mind
++3 def
++2 kill
+
+Odjobs Hat - Hat
++7 kill
++3 def
+
+Chastitybelt - Belt
++5 kill
++5 def
+
+Draconic Armour - Chest
++10 def
+
+Ring of Absorbation - Ring
++5 def
+
+Bandaid - plåster
+beginning item
